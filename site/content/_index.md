@@ -1,5 +1,5 @@
 ---
-title: Great tea with a conscience
+title: Just Tea!
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
